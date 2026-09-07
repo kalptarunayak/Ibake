@@ -1,0 +1,6 @@
+{
+  "name": "IBake",
+  "description": "Indian cake, chocolate, and floral e-commerce platform with city-specific vendor comparisons and occasion ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
